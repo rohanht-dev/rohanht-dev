@@ -1,259 +1,206 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1628,100:1e40af&height=200&section=header&text=Rohan%20H%20T&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=Python%20Developer%20%7C%20Django%20%7C%20Backend%20Engineer&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=620&height=52&lines=Python+Developer+%7C+CS+Graduate+2025;Django+%2B+REST+APIs+%2B+MySQL;7%2B+Internships+%26+Training+Programs;Backend+%7C+Full+Stack+%7C+Automation)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0a0a,100:0f1a0f&height=190&section=header&text=ROHAN%20H%20T&fontSize=70&fontColor=00DC82&fontAlignY=50&desc=Python%20Developer%20·%20Django%20·%20Backend%20Engineering&descAlignY=72&descSize=16&animation=fadeIn&stroke=00DC82&strokeWidth=1" width="100%"/>
 
 <br/>
 
-<a href="mailto:rohanht2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://linkedin.com/in/rohanht"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://rohan-portfolio-eosin.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/rohanht-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=21&duration=3000&pause=1000&color=00DC82&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Python+Developer+%7C+CS+Graduate+2025;7%2B+Internships+%26+Training+Programs;Django+%7C+REST+APIs+%7C+MySQL;Building+backends.+Shipping+software.)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=rohanht-dev&style=flat-square&color=60A5FA&label=Profile+Views&labelColor=0d1117"/>
+<br/>
+
+<a href="mailto:rohanht2002@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00DC82&labelColor=0a0a0a"/></a>&nbsp;
+<a href="https://linkedin.com/in/rohanht"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00DC82&labelColor=0a0a0a"/></a>&nbsp;
+<a href="https://rohan-portfolio-eosin.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=00DC82&labelColor=0a0a0a"/></a>&nbsp;
+<a href="https://github.com/rohanht-dev"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00DC82&labelColor=0a0a0a"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=rohanht-dev&style=flat-square&color=00DC82&label=Profile+Views&labelColor=0a0a0a"/>
 
 </div>
 
 ---
 
-## `$ whoami`
+## About
 
-```python
-developer = {
-    "name"       : "Rohan H T",
-    "location"   : "Bengaluru, Karnataka, India",
-    "education"  : "B.E. Computer Science — VTU, 2025",
-    "experience" : "7+ Internships & Training Programs",
-    "focus"      : ["Python", "Django", "REST APIs", "MySQL", "Backend Engineering"],
-    "available"  : True,
-    "seeking"    : ["Python Developer", "Django Developer", "Full Stack Developer"]
-}
+CS graduate (VTU, 2025) and Python developer with **7+ internships and training programs** across full-stack development, web development, Java, entrepreneurship, and team leadership. I build Django backends, REST APIs, MySQL databases, and Python automation tools.
+
+Currently seeking **Python Developer, Django Developer, or Full Stack Developer** roles in Bengaluru or remote.
+
+```yaml
+name:       Rohan H T
+location:   Bengaluru, Karnataka, India
+education:  B.E. Computer Science — Government Engineering College Hassan (VTU), 2025
+focus:      Python · Django · REST APIs · MySQL · Backend Engineering
+available:  true
+open_to:    Python Developer / Django Developer / Full Stack Developer / Software Engineer
 ```
-
-> CS graduate with real-world experience across **7+ internships and training programs** — building full-stack Django applications, REST APIs, Python automation pipelines, and responsive frontends. I learn by shipping. I grow by doing.
 
 ---
 
-## ⚙️ Tech Stack
+## Stack
 
 <div align="center">
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Basics-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-**Backend**
-
-![Django](https://img.shields.io/badge/Django%20MVT-092E20?style=flat-square&logo=django&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Django ORM](https://img.shields.io/badge/Django%20ORM-092E20?style=flat-square&logo=django&logoColor=white)
-![CRUD](https://img.shields.io/badge/CRUD%20Operations-4CAF50?style=flat-square&logo=databricks&logoColor=white)
-
-**Frontend**
-
-![ReactJS](https://img.shields.io/badge/ReactJS-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Fetch API](https://img.shields.io/badge/Fetch%20API-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-**Python Libraries & Tools**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Whisper AI](https://img.shields.io/badge/Whisper%20AI-412991?style=flat-square&logo=openai&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Basics-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux%20CLI-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🎬 Automated Video Subtitle Generator
-> Python · AI Automation Pipeline
-
-End-to-end subtitle generation pipeline. Upload any video → audio is extracted → Whisper AI transcribes → SRT subtitles are generated and embedded back. ~90% transcription accuracy with a Streamlit interface.
-
-```
-Video ──► FFmpeg ──► Whisper AI ──► SRT ──► Output
-                   (~90% accuracy)
-```
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Whisper AI](https://img.shields.io/badge/Whisper%20AI-412991?style=flat-square&logo=openai&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-[![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohanht-dev/automated-video-subtitle-generator)
-
+<td align="center" width="160"><b>🐍 Languages</b><br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/HTML5%20%2F%20CSS3-E34F26?style=flat-square&logo=html5&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Java-Basics-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
 </td>
-<td width="50%" valign="top">
-
-### 🎓 Student Management System
-> Django · MySQL · Full Stack
-
-Production-configured Django web app with full CRUD, student result tracking, attendance, search functionality, and Chart.js analytics dashboard. MySQL schema designed from scratch.
-
-```
-Django MVT ──► MySQL ──► Chart.js
-  CRUD · ORM · Search · Analytics
-```
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-
-[![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohanht-dev/student_management_system)
-
+<td align="center" width="160"><b>⚡ Backend</b><br/><br/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Django%20ORM-092E20?style=flat-square&logo=django&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/CRUD%20Operations-00DC82?style=flat-square&logoColor=white"/>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 E-Commerce Product Store
-> JavaScript · Fetch API · REST
-
-Responsive storefront with dynamic product filtering by category and price, popup modal detail view, image carousel, and persistent cart. Integrates REST API using async/await Fetch patterns.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Fetch API](https://img.shields.io/badge/Fetch%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-[![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohanht-dev)
-
+<td align="center" width="160"><b>🎨 Frontend</b><br/><br/>
+<img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Fetch%20API-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </td>
-<td width="50%" valign="top">
-
-### 📦 Inventory Reservation System
-> Next.js · PostgreSQL · Redis
-
-Full-stack inventory platform with Redis distributed locking to prevent overselling during concurrent checkouts. Implements reservation expiry handling and stock management workflows.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-[![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohanht-dev/allo-inventory-reservation)
-
+<td align="center" width="160"><b>🗄️ Database</b><br/><br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+</td>
+<td align="center" width="160"><b>📦 Python Libs</b><br/><br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Whisper%20AI-412991?style=flat-square&logo=openai&logoColor=white"/>
+</td>
+<td align="center" width="160"><b>🛠️ Tools</b><br/><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Docker-Basics-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </td>
 </tr>
 </table>
 
----
-
-## 💼 Experience
-
-| Role | Organisation | Period | Certificate |
-|------|-------------|--------|-------------|
-| 🐍 Python Full Stack Dev Intern | **VStand4U Solutions** *(Remote)* | Feb – May 2025 | [![Cert](https://img.shields.io/badge/View-Certificate-1e40af?style=flat-square)](https://drive.google.com/file/d/1lYQzlnXfr7LiQcx0GpFvfk5h3LtNXjnP/view) |
-| 🌐 Web Development Intern | **RineX Technologies** *(Remote)* | Sep – Oct 2024 | [![Cert](https://img.shields.io/badge/View-Certificate-1e40af?style=flat-square)](https://drive.google.com/file/d/1HcWZJtaPBuwkvKy6tWq8aHurUG2_71mi/view?usp=sharing) |
-| 👥 Team Leader | **Orion / Flipkart Client** | Aug – Oct 2025 | — |
-| 🚀 Entrepreneurship Program | **Seventh Sense Talent Solutions** | Oct – Nov 2023 | [![Cert](https://img.shields.io/badge/View-Certificate-1e40af?style=flat-square)](https://rohan-portfolio-eosin.vercel.app) |
-| 💻 C Programming Trainee | **Ocean InfoTech** | Apr – Aug 2023 | [![Cert](https://img.shields.io/badge/View-Certificate-1e40af?style=flat-square)](https://drive.google.com/file/d/1ifGkgKTwURzT8HnrdpZ9dreYlfIQWrTq/view?usp=sharing) |
-| ☕ Java Programming Intern | **Teragon Edtech** | Mar – May 2022 | [![Cert](https://img.shields.io/badge/View-Certificate-1e40af?style=flat-square)](https://rohan-portfolio-eosin.vercel.app) |
-| 🎓 Python Training | **Pentagon Space** | Nov 2025 – Present | — |
+</div>
 
 ---
 
-## 🏅 Certifications
+## Projects
+
+### [🎬 Automated Video Subtitle Generator](https://github.com/rohanht-dev/automated-video-subtitle-generator)
+`Python` `Whisper AI` `FFmpeg` `Streamlit`
+
+```
+Video Input ──► FFmpeg Audio Extraction ──► Whisper AI Transcription ──► SRT Generation ──► Subtitle Embedding
+                                                  ~90% accuracy
+```
+
+End-to-end Python automation. Takes any video → extracts audio → transcribes with Whisper AI (~90% accuracy) → generates SRT subtitles → embeds them back. Deployed with a Streamlit web interface.
+
+---
+
+### [🎓 Student Management System](https://github.com/rohanht-dev/student_management_system)
+`Django` `Python` `MySQL` `Chart.js`
+
+```
+Django MVT ──► MySQL Schema ──► ORM Queries ──► CRUD + Search ──► Chart.js Analytics Dashboard
+```
+
+Full-stack Django web app. Student CRUD, result tracking, search, attendance, and a Chart.js analytics dashboard. MySQL schema designed from scratch with .env and requirements.txt deployment config.
+
+---
+
+### [📦 Inventory Reservation System](https://github.com/rohanht-dev/allo-inventory-reservation)
+`Next.js` `TypeScript` `PostgreSQL` `Redis` `Prisma`
+
+Full-stack inventory platform with Redis distributed locking to prevent overselling during concurrent checkouts. Reservation expiry, stock management, and Prisma ORM with PostgreSQL.
+
+---
+
+### [🛒 E-Commerce Product Store](https://github.com/rohanht-dev)
+`HTML5` `CSS3` `JavaScript` `Fetch API` `REST API`
+
+Responsive storefront with category/price filtering, popup modal product detail, image carousel, persistent cart, and Fake Store REST API integration via Async/Await.
+
+---
+
+## Experience
+
+| | Role | Organisation | Period | Certificate |
+|-|------|-------------|--------|-------------|
+| 🐍 | Python Full Stack Dev Intern | **VStand4U Solutions** · Remote | Feb – May 2025 | [![Cert](https://img.shields.io/badge/Certificate-00DC82?style=flat-square&logo=googledrive&logoColor=black)](https://drive.google.com/file/d/1lYQzlnXfr7LiQcx0GpFvfk5h3LtNXjnP/view) |
+| 🌐 | Web Development Intern | **RineX Technologies** · Remote | Sep – Oct 2024 | [![Cert](https://img.shields.io/badge/Certificate-00DC82?style=flat-square&logo=googledrive&logoColor=black)](https://drive.google.com/file/d/1HcWZJtaPBuwkvKy6tWq8aHurUG2_71mi/view?usp=sharing) |
+| 👥 | Team Leader | **Orion Corporate Alliance** · Flipkart Client | Aug – Oct 2025 | — |
+| 🚀 | Entrepreneurship Development | **Seventh Sense Talent Solutions** | Oct – Nov 2023 | [![Cert](https://img.shields.io/badge/Certificate-00DC82?style=flat-square&logo=vercel&logoColor=black)](https://rohan-portfolio-eosin.vercel.app) |
+| 💻 | C Programming Trainee | **Ocean InfoTech** · Hassan | Apr – Aug 2023 | [![Cert](https://img.shields.io/badge/Certificate-00DC82?style=flat-square&logo=googledrive&logoColor=black)](https://drive.google.com/file/d/1ifGkgKTwURzT8HnrdpZ9dreYlfIQWrTq/view?usp=sharing) |
+| ☕ | Java Programming Intern | **Teragon Edtech** · Hassan | Mar – May 2022 | [![Cert](https://img.shields.io/badge/Certificate-00DC82?style=flat-square&logo=vercel&logoColor=black)](https://rohan-portfolio-eosin.vercel.app) |
+| 🎓 | Python Training | **Pentagon Space** · Bengaluru | Nov 2025 – Present | — |
+
+---
+
+## Certifications
 
 <div align="center">
 
-| Certification | Issuer | Year | Link |
-|--------------|--------|------|------|
-| Python Full Stack Development | VStand4U Solutions | 2025 | [![View](https://img.shields.io/badge/View%20Certificate-1e40af?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1lYQzlnXfr7LiQcx0GpFvfk5h3LtNXjnP/view) |
-| Web Development | RineX Technologies | 2024 | [![View](https://img.shields.io/badge/View%20Certificate-1e40af?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1HcWZJtaPBuwkvKy6tWq8aHurUG2_71mi/view?usp=sharing) |
-| Data Analytics Bootcamp | Self-Directed | Jun 2026 | — |
-| C Programming | Ocean InfoTech | 2023 | [![View](https://img.shields.io/badge/View%20Certificate-1e40af?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ifGkgKTwURzT8HnrdpZ9dreYlfIQWrTq/view?usp=sharing) |
-| Entrepreneurship Development | Seventh Sense | 2023 | [![View](https://img.shields.io/badge/View%20Certificate-1e40af?style=flat-square&logo=vercel&logoColor=white)](https://rohan-portfolio-eosin.vercel.app) |
-| Java Programming | Teragon Edtech | 2022 | [![View](https://img.shields.io/badge/View%20Certificate-1e40af?style=flat-square&logo=vercel&logoColor=white)](https://rohan-portfolio-eosin.vercel.app) |
+[![VStand4U](https://img.shields.io/badge/Python%20Full%20Stack%20Development-VStand4U%20Solutions%202025-00DC82?style=flat-square&logo=python&logoColor=white&labelColor=0a0a0a)](https://drive.google.com/file/d/1lYQzlnXfr7LiQcx0GpFvfk5h3LtNXjnP/view)&nbsp;
+[![RineX](https://img.shields.io/badge/Web%20Development-RineX%20Technologies%202024-00DC82?style=flat-square&logo=html5&logoColor=white&labelColor=0a0a0a)](https://drive.google.com/file/d/1HcWZJtaPBuwkvKy6tWq8aHurUG2_71mi/view?usp=sharing)&nbsp;
+[![Ocean](https://img.shields.io/badge/C%20Programming-Ocean%20InfoTech%202023-00DC82?style=flat-square&logo=c&logoColor=white&labelColor=0a0a0a)](https://drive.google.com/file/d/1ifGkgKTwURzT8HnrdpZ9dreYlfIQWrTq/view?usp=sharing)&nbsp;
+[![Seventh Sense](https://img.shields.io/badge/Entrepreneurship%20Dev-Seventh%20Sense%202023-00DC82?style=flat-square&logo=vercel&logoColor=white&labelColor=0a0a0a)](https://rohan-portfolio-eosin.vercel.app)&nbsp;
+[![Teragon](https://img.shields.io/badge/Java%20Programming-Teragon%20Edtech%202022-00DC82?style=flat-square&logo=openjdk&logoColor=white&labelColor=0a0a0a)](https://rohan-portfolio-eosin.vercel.app)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohanht-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60A5FA&icon_color=60A5FA&text_color=c9d1d9" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rohanht-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00DC82&icon_color=00DC82&text_color=8b949e" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanht-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60A5FA&text_color=c9d1d9" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanht-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00DC82&text_color=8b949e" height="170"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=rohanht-dev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=60A5FA&fire=FF6B35&currStreakLabel=60A5FA" width="55%"/>
+<img src="https://streak-stats.demolab.com/?user=rohanht-dev&theme=dark&hide_border=true&background=0d1117&stroke=00DC82&ring=00DC82&fire=FF6B35&currStreakLabel=00DC82" width="55%"/>
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## Currently
 
-<div align="center">
+```python
+learning = [
+    "Advanced Django patterns & deployment",
+    "System Design fundamentals",
+    "AWS: EC2, S3 basics",
+    "Next.js full-stack development",
+    "React.js — Context API, React Router, Advanced Hooks",
+]
 
-| Topic | Progress |
-|-------|----------|
-| Advanced Django | `████████████░░░` 78% |
-| React.js — Hooks, Router, Context API | `█████████░░░░░░` 60% |
-| System Design Fundamentals | `██████░░░░░░░░░` 40% |
-| AWS Cloud Basics | `████░░░░░░░░░░░` 25% |
-| Next.js Full Stack | `██████░░░░░░░░░` 38% |
+open_to = [
+    "Python Developer",
+    "Django Developer",
+    "Backend Developer",
+    "Full Stack Developer",
+    "Software Engineer",
+]
 
-</div>
-
----
-
-## 💼 Open To Opportunities
-
-<div align="center">
-
-![Python Developer](https://img.shields.io/badge/-Python%20Developer-1e40af?style=for-the-badge)
-![Django Developer](https://img.shields.io/badge/-Django%20Developer-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Backend Developer](https://img.shields.io/badge/-Backend%20Developer-0f172a?style=for-the-badge)
-![Full Stack Developer](https://img.shields.io/badge/-Full%20Stack%20Developer-3776AB?style=for-the-badge)
-![Software Engineer](https://img.shields.io/badge/-Software%20Engineer-1e3a5f?style=for-the-badge)
-
-</div>
+location = "Bengaluru, Karnataka, India"
+available = True
+```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,60:0a1628,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0a0a,100:0f1a0f&height=100&section=footer&reversal=true&animation=fadeIn" width="100%"/>
 
-*"I build things that work. I learn things that matter."*
+**Rohan H T** &nbsp;·&nbsp; [rohanht2002@gmail.com](mailto:rohanht2002@gmail.com) &nbsp;·&nbsp; [Portfolio ↗](https://rohan-portfolio-eosin.vercel.app)
 
-**Rohan H T** · Bengaluru, India · [rohanht2002@gmail.com](mailto:rohanht2002@gmail.com) · [Portfolio ↗](https://rohan-portfolio-eosin.vercel.app)
+*Shipping software. Growing daily.*
 
 </div>
