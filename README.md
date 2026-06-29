@@ -1,73 +1,15 @@
-# Hi, I'm Rohan H T
+# 💫 About Me:
+Hi, I'm Rohan H T<br>Computer Science graduate and aspiring Software Developer with experience building web applications using Python, Django, JavaScript, and React. Passionate about backend development, problem-solving, and building practical software solutions. Currently expanding my skills in Next.js, System Design, and modern backend engineering.<br><br>Tech Stack<br>Backend<br>Python<br>Django<br>REST APIs<br>Django ORM<br>Frontend<br>JavaScript (ES6+)<br>React.js<br>HTML5<br>CSS3<br>Tailwind CSS (Basics)<br>Database<br>SQL<br>MySQL<br>Tools & Platforms<br>Git<br>GitHub<br>Postman<br>VS Code<br>Vercel<br>Featured Projects<br>Student Management System<br>Developed a Django-based student management application featuring authentication, CRUD operations, attendance tracking, and database integration using Django ORM.<br><br>Automated Video Subtitle Generator<br>Built a Python-based automation tool using Whisper AI and FFmpeg to generate subtitles from videos through an easy-to-use Streamlit interface.<br><br>Inventory Reservation System<br>Built a full-stack inventory reservation platform using Next.js, PostgreSQL, Prisma, and Redis locking to prevent overselling during checkout. Implemented reservation expiry handling, distributed locking, and stock management workflows.<br><br>Currently Learning<br>Advanced Django Development<br>System Design Fundamentals<br>Backend Engineering Concepts<br>Next.js<br>AWS Basics<br>Open To<br>Software Developer Roles<br>Python Developer Roles<br>Backend Developer Roles<br>Full-Stack Developer Roles<br>Internship Opportunities<br>Connect With Me<br>📧 Email: rohanht2002@gmail.com<br><br>💼 LinkedIn: linkedin.com/in/rohanht<br><br>🌐 Portfolio: rohan-portfolio-eosin.vercel.app<br><br>🐙 GitHub: github.com/rohanht-dev   rohanht-dev/rohanht-dev<br>This contribution was made on Jun 29Jun 29<br> rohanht-dev/allo-inventory-reservation<br> TypeScript • Built by @Rohan123-power<br>This contribution was made on Jun 26Jun 26<br> rohanht-dev/student_management_system
 
-Computer Science graduate and aspiring Software Developer with experience building web applications using Python, Django, JavaScript, and React. Passionate about backend development, problem-solving, and building practical software solutions. Currently expanding my skills in Next.js, System Design, and modern backend engineering.
 
-## Tech Stack
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rohanht-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=rohanht-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohanht-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Backend
+---
+[![](https://komarev.com/ghpvc/?username=rohanht-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-* Python
-* Django
-* REST APIs
-* Django ORM
-
-### Frontend
-
-* JavaScript (ES6+)
-* React.js
-* HTML5
-* CSS3
-* Tailwind CSS (Basics)
-
-### Database
-
-* SQL
-* MySQL
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Postman
-* VS Code
-* Vercel
-
-## Featured Projects
-
-### Student Management System
-
-Developed a Django-based student management application featuring authentication, CRUD operations, attendance tracking, and database integration using Django ORM.
-
-### Automated Video Subtitle Generator
-
-Built a Python-based automation tool using Whisper AI and FFmpeg to generate subtitles from videos through an easy-to-use Streamlit interface.
-
-### Inventory Reservation System
-
-Built a full-stack inventory reservation platform using Next.js, PostgreSQL, Prisma, and Redis locking to prevent overselling during checkout. Implemented reservation expiry handling, distributed locking, and stock management workflows.
-
-## Currently Learning
-
-* Advanced Django Development
-* System Design Fundamentals
-* Backend Engineering Concepts
-* Next.js
-* AWS Basics
-
-## Open To
-
-* Software Developer Roles
-* Python Developer Roles
-* Backend Developer Roles
-* Full-Stack Developer Roles
-* Internship Opportunities
-
-## Connect With Me
-
-📧 Email: [rohanht2002@gmail.com](mailto:rohanht2002@gmail.com)
-
-💼 LinkedIn: [linkedin.com/in/rohanht](https://linkedin.com/in/rohanht)
-
-🌐 Portfolio: [rohan-portfolio-eosin.vercel.app](https://rohan-portfolio-eosin.vercel.app/)
-
-🐙 GitHub: [github.com/rohanht-dev](https://github.com/rohanht-dev)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
