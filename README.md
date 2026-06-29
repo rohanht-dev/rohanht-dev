@@ -66,8 +66,8 @@ Built a full-stack inventory reservation platform using Next.js, PostgreSQL, Pri
 
 📧 Email: [rohanht2002@gmail.com](mailto:rohanht2002@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/rohanht
+💼 LinkedIn: [linkedin.com/in/rohanht](https://linkedin.com/in/rohanht)
 
-🌐 Portfolio: rohan-portfolio-eosin.vercel.app
+🌐 Portfolio: [rohan-portfolio-eosin.vercel.app](https://rohan-portfolio-eosin.vercel.app/)
 
-🐙 GitHub: github.com/rohanht-dev
+🐙 GitHub: [github.com/rohanht-dev](https://github.com/rohanht-dev)
